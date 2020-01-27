@@ -7,4 +7,4 @@
 Watch videos corresponding to weekly R help sessions:
 
 * [R Help Video 1](https://youtu.be/0i9WI6OUGZ8)
-* [R Help Video 2](https://www.youtube.com/watch?v=JnJQ8RhFJb4&t=3s)
+* [R Help Video 2](https://youtu.be/JnJQ8RhFJb4)
