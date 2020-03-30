@@ -15,3 +15,4 @@ Watch videos corresponding to weekly R help sessions:
 * [R Help Video 5: Exam I Review](https://youtu.be/iJRRum2MAFk) and [Exam 1 Review Slides](https://github.com/HoldenArcher/Exam-1-Review/raw/master/Test%201%20review.pdf)
 * [R Help Video 6](https://youtu.be/CgdrcbEDjQY)
 * [R Help Video 7](https://youtu.be/qPtBgDAmIzA)
+* [R Help Video 8](https://youtu.be/t5FLS7w7vuo)
