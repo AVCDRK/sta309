@@ -17,4 +17,6 @@ Watch videos corresponding to weekly R help sessions:
 * [R Help Video 7](https://youtu.be/qPtBgDAmIzA)
 * [R Help Video 8](https://youtu.be/t5FLS7w7vuo)
 * [R Help Video 9](https://youtu.be/IjDmT5wdYQk)
+Please note that the video covers scatterplot and correlation, which are not on the second exam this year.
 * [R Help Video 10: Exam II Review](https://youtu.be/JnJQ8RhFJb4) and [Exam 2 Review Slides](https://github.com/HoldenArcher/Exam-1-Review/raw/master/Test%202%20review.pdf)
+
