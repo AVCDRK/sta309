@@ -19,6 +19,7 @@ Watch videos corresponding to weekly R help sessions:
 * [R Help Video 9](https://youtu.be/IjDmT5wdYQk)
 * [R Help Video 10](https://youtu.be/6onviUO3eoE)
 * [R Help Video 11](https://youtu.be/eBwiL5G80m4)
+* [R Help Video 12](https://youtu.be/lIohSnm6rh0)
 
 Exam II Review Materials:
 * [R Help Video: Exam II Review](https://youtu.be/JnJQ8RhFJb4) and [Exam II Review Slides](https://github.com/HoldenArcher/Exam-1-Review/raw/master/Test%202%20review.pdf)
