@@ -24,4 +24,6 @@ Watch videos corresponding to weekly R help sessions:
 Exam II Review Materials:
 * [R Help Video: Exam II Review](https://youtu.be/JnJQ8RhFJb4) and [Exam II Review Slides](https://github.com/HoldenArcher/Exam-1-Review/raw/master/Test%202%20review.pdf)
 * Please note that the video covers scatterplots and correlation, which are not on the second exam this year. Skip to 6:56 to bypass that section. 
-* [Exam II Review Script](https://github.com/HoldenArcher/Exam-1-Review/raw/master/Exam%202%20Review%20Script.R)
+
+Final Review Materials:
+* [R Help Video: Final Review](https://www.youtube.com/watch?v=AvldOl_pEqk) and [Final Review Slides](https://github.com/HoldenArcher/Exam-1-Review/raw/master/Final%20Review.pdf)
